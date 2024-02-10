@@ -4,7 +4,7 @@ Flutter Groceries App
 
 ## Screens
 
-<img src="https://github.com/mbayo97/fluttergroceries/assets/114036622/fb33ab8d-4d9f-4175-94bf-0da9644d94c1" width="400"/>
+<img src="https://github.com/mbayo97/fluttergroceries/assets/114036622/fb33ab8d-4d9f-4175-94bf-0da9644d94c1" width="200"/>
 
 <img src="https://github.com/mbayo97/fluttergroceries/assets/114036622/9b192b20-c08e-43ea-99f3-cf7610102980" width="400"/>
 
