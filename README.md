@@ -4,7 +4,7 @@ Flutter Groceries App
 
 ## Screens
 
-![location](https://github.com/mbayo97/fluttergroceries/assets/114036622/fb33ab8d-4d9f-4175-94bf-0da9644d94c1 =400x500)
+![location](https://github.com/mbayo97/fluttergroceries/assets/114036622/fb33ab8d-4d9f-4175-94bf-0da9644d94c1 | width=400x500)
 
 ![homescreen](https://github.com/mbayo97/fluttergroceries/assets/114036622/9b192b20-c08e-43ea-99f3-cf7610102980)
 
